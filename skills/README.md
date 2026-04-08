@@ -7,7 +7,7 @@
 ## 目录内容
 
 - `.system/`：系统来源的通用技能，目前可见 `skill-creator`、`skill-installer` 等，也保留了未启用但已落盘的系统 skill。
-- `superpowers/`：流程型技能，如 `using-superpowers`、`systematic-debugging`、`verification-before-completion`。
+- `superpowers/`：对开源项目superpowers做了中文化处理，通用流程型技能，如 `using-superpowers`、`systematic-debugging`、`verification-before-completion`。
 - `iho-java/`：IHO Java 项目开发规范。
 - `iho-db-pgsql/`：IHO PostgreSQL DDL 设计规范。
 - `spec/`：简易版的需求、设计、任务三段式 spec 技能与模板。
